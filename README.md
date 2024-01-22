@@ -1,3 +1,6 @@
+![Screenshot (80)](https://github.com/sandeshwalunj/ReactJS-Landing-Page/assets/85930930/e4cc3977-fd8f-4d5c-b066-c2945db4ab89)
+![Screenshot (81)](https://github.com/sandeshwalunj/ReactJS-Landing-Page/assets/85930930/878b7c85-bee5-4019-8489-3bb7c3e1db68)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
